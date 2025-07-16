@@ -36,3 +36,9 @@ streamlit run netflix_dashboard.py
 
 📦 Dataset Source
 Kaggle Netflix Dataset
+https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
+
+## 🚀 Live Demo
+(Live on Streamlit)
+Check out the deployed Streamlit app here:  https://netflix-data-project-wn7d62wezvrxou5a2djyyx.streamlit.app/
+
